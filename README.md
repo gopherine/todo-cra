@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with TODO
 
-Project is bootstrapped with CRA and is using redux/toolkit, tailwindcss. For code formatting prettier is used feel free to remove it.
+Project is bootstrapped with CRA and is using redux/toolkit, tailwindcss. For code formatting prettier is used feel free to remove it. You are free to use yarn or npm whichever you feel comfortbale with. You should be able to run the application after installing the packages using `yarn install` and `yarn start`or `npm install`and `npm start`.
 
 ## Available Scripts
 
